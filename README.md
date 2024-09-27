@@ -9,6 +9,7 @@ The PIO loops for a fixed length of time (about 16ms, for a 60Hz update rate), a
 
 The Python program tracks the minimum and maximum counts, and turns the current count into a 0-1 level.
 
+This is a fork of AncientJames's capacitive touch code, which has been reformatted for ease of use into a module to be more easily imported into any Pi Pico projects. 
 
 https://user-images.githubusercontent.com/14081099/221393030-e98d9114-3211-4b21-a260-b7a585bc5c02.mp4
 
